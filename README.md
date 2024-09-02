@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+cccollage (or Crash Course Collage) is a free website tool aimed to get you, dear reader, interested in collage as both an artform and as a practice. At the very least, I want to spotlight my own love for collage, make you understand it, and hopefully swoon you enough that you would appreciate it.
 
 ### Installation
 
@@ -18,11 +18,7 @@ This command starts a local development server and opens up a browser window. Mo
 
 ### Build
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+This website was created with the help of Docusaurus, Markdown, and a whole lot of Javascript. Feel free to use it as a reference for your own blog!
 
 ### Deployment
 
