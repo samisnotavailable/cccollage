@@ -83,7 +83,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
@@ -118,8 +118,8 @@ const config = {
             title: 'Blog',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Coming Soon',
+                href: 'https://pbs.twimg.com/media/Fw7q2p-XwAEjq9F.jpg',
               },
             ],
           },
@@ -128,7 +128,7 @@ const config = {
             items: [
               {
                 label: 'Diende Noel',
-                href: 'https://github.com/facebook/docusaurus',
+                to: '/docs/about',
               },
               {
                 label: 'Instagram',

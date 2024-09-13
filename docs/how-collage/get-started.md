@@ -25,7 +25,12 @@ I remember the first collage I made, which was for an art class. The theme is ha
 
 Basic, I know, but in order to get started we will need our materials. We already decided what canvas to use, so all that's left are our materials. I've listed a list of sources for your collage before, two of which are [artvee.com](https://artvee.com/) and [publicdomainq.net](https://publicdomainq.net/tag/%e3%83%95%e3%83%aa%e3%83%bc%e7%b5%b5%e7%94%bb/). We only want to dip our feet into this for now, so I'll limit myself to just two sources for my collage. Feel free to choose your own sources if you'd like!
 
-Make sure to open the appropriate program you're used to if you're using a digital medium. In my case, I'll be creating a square canvas using Photoshop. With physical paper, you may cut out a square as large as you'd like, just to limit yourself from going over the borders. Just remember to get into this mindset that you're making your collage with whatever you’ve got. If you can’t find something absolutely dazzling for your Pile, it’s fine—it's literally your first time! It doesn’t have to be special. It just has to be the first. I just hope I can help make it memorable for you.
+![Artvee](/img/source-collage/artvee-01.png)
+![PDQ](/img/source-collage/pdq-01.png)
+
+Make sure to open the appropriate program you're used to if you're using a digital medium. In my case, I'll be creating a square canvas using Photoshop. 1080 x 1080, at 300dpi, CMYK just to keep things printer-ready. With physical paper, you may cut out a square as large as you'd like, just to limit yourself from going over the borders. Just remember to get into this mindset that you're making your collage with whatever you’ve got. If you can’t find something absolutely dazzling for your Pile, it’s fine—it's literally your first time! It doesn’t have to be special. It just has to be the first. I just hope I can help make it memorable for you.
+
+![Photoshop](/img/how-collage/photoshop.png)
 
 ## #2: Look and gather.
 
@@ -37,37 +42,53 @@ We don't have to download everything you see, just the artworks that we think we
 In order to find your downloaded artworks much easier, it would be best to name them according to their appropriate title and author. For example, I always name them in this format: **Author Name - Artwork Title (Year)**
 :::
 
+![The Pile](/img/how-collage/the-pile.png)
+
+
 ## #3: Cut out your brush strokes.
 
-Remember that Marie Kondo quote? From among your pile, it's time to start recognizing which parts of the artwork or an object you want to use for your collage later. Once we're confident of these, we can start cutting them out. Treat each part as if they're a brushstroke, not as an artwork by themselves. Each of them has to build upon the other to create the collage, no matter how few they are. Cut them out and keep them on your canvas for when we make the collage later. Remember that these aren’t just pictures anymore—they’re your brush strokes. Keep looking.
+Remember that Marie Kondo quote? From among your pile, it's time to start recognizing which parts of the artwork or an object you want to use for your collage later. Zoom in and zoom out, find the right pieces you want to focus on. Usually at this part of the process, I end up not cutting up all the artwork's I've saved. Some I leave for later, and others I really don't know what to do with yet, just that I found them interesting to keep. Regardless, if you aren't satisfied with what remains to cut, you may just repeat Step #2, then come back here. As for me, these are what I've decided to cut out. 
+
+![Assets](/img/how-collage/assets.gif)
+
+A personal rule I keep in mind is, that you have the lay the artworks on top of each other and see which ones you can cut out that matches the next one best, then that's when you can start cutting them out. Treat each part as if they're a brushstroke, not as an artwork by themselves. Each of them has to build upon the other to create the collage, no matter how few they are. Sometimes, you don't use all of it, and that's okay. You're not wasting time, you're still learning, and I still am learning as well. Cut them out and keep them on your canvas for when we make the collage later. Remember that these aren’t just pictures anymore—they’re your brush strokes. Paint with your eyes.
 
 ## #4: Put the first piece down.
 
-This is probably the most daunting part. How do you arrange your pieces on the canvas? When I had my first Pile, I remember being transfixed on this picture of M. Night Shyamalan. I had no idea why and he wasn’t even my favorite film director. At that time of my youth, I was angry with him for disrespecting the Avatar series. But something about his picture really spoke to me, and I knew I just had to have it in the Pile. Eventually, I decided that it was his smile that intrigued me the most, so I decided it would be the first piece I’d place, and I felt a lot more confident about filling the rest of the space later.
+This is probably the most daunting part. How do you arrange your pieces on the canvas? When I had my first Pile, I remember being transfixed on this picture of M. Night Shyamalan. I had no idea why and he wasn’t even my favorite film director. But something about his picture really spoke to me, and I knew I just had to have it in the Pile. Eventually, I decided that it was his smile that intrigued me the most, so I decided it would be the first piece I’d place, and I felt a lot more confident about filling the rest of the space later.
 
-What’s important here is that we don’t have to commit to pasting it yet. Digitally, we won’t have this issue, as we can always undo. Just put the first piece down, and lay the other pieces down like a puzzle. The collage will follow.
+![M. Night Shyamalan](/img/how-collage/shyamalan.png)
+
+Sometimes, things don't make sense yet, just like a Shyamalan film, but allow yourself to have enough imagination to make it work later on. What’s important here is that we don’t have to commit to pasting it yet. Digitally, we won’t have this issue, as we can always undo. Just put the first piece down, and lay the other pieces down like a puzzle. The collage will follow.
 
 ## #5: Arrange everything else, and rearrange.
 
 When it comes to arranging the pieces, you may already have had an idea while you were working on the previous steps. Which would be great! But in the case that you still don't know what to do, that's totally fine. At this point, ask yourself what might be the more important pieces for you to use to keep them on the canvas, while the rest can just stay hidden or outside the canvas. This can help you discern which pieces should stay on the foreground and background. 
 
-Now in the case that you realize you still don't have the pieces you want, that can also happen. Look through the Pile again and see which artworks you can add. If not from the Pile, you may look from the website sources again. No step needs to be final and you can always rearrange and arrange your pieces until you're satisfied. Whatever your decision may be, look through The Pile, then look at the canvas. Eventually, you look enough and you’ll start assembling the collage with your own eyes.
+Now in the case that you realize you still don't have the pieces you want, that can also happen. Look through the Pile again and see which artworks you can add. If not from the Pile, you may look from the website sources again. No step needs to be final and you can always rearrange and arrange your pieces until you're satisfied. Whatever your decision may be, look through The Pile, then look at the canvas. Eventually, you look enough and you’ll be assembling the collage with your own eyes.
 
-As for me, I feel like a collage is coming on with the pieces I've assembled. I want to make this certain element my centerpiece, with the others as accompanying elements. I don't think it means anything yet, but it looks cool to me. Once we're confident with how the pieces look together, we can start finalizing and pasting.
+As for me, I feel like a collage is coming on with the pieces I've assembled. I don't think it means anything yet, but it doesn't awlways have to. Sometimes the meaning happens later. Once we're confident with how the pieces look together, we can start finalizing and pasting.
 
-## #6: Repeat steps until necessary and then finish.
+![Timelapse](/img/how-collage/timelapse.gif)
+
+
+## #6: Repeat until you finish.
 
 Easier said than done, honestly! There's no great, grand answer as to what your first collage should look and how it should make you feel. For me, this is how mine turned out:
 
-Not too shabby, if I may say so myself. Of course, this *isn't* my first collage, but I hope it helped for you to see me work along with you. However you may feel about your collage, whether it's worse, fine, or better than mine, remember that this is only the beginning, and you can only get better from here.
+![Final](/img/how-collage/collage.png)
 
-I remember when I finished my *actual* first collage, nothing in particular about the collage stuck with me. I greatly enjoyed the process of making it, but afterwards, I felt it was off, janky, and a little too bizarre for my taste. Though I didn’t love it, I remember thoroughly enjoying making it. When I had finished that art class, I didn't make any artworks for myself for a long time afterwards, but I enjoyed that class. I enjoyed the looking, the gathering into The Pile—observational skills which I would keep and train for as I entered into graphic design. It would only be years later, when I would pick up collage on my own terms, teenage and experimenting again, that I started to truly appreciate the form.
+Honestly, I really like it.  I worked on this for under an hour, and while our time of work may vary, I still had an incredibly fun time coming up with this on the get-go. When I saw Cappiello's poster artwork, with the man on the horse, my mind began immediately jumping with cowboys, specifically the gun fights they'd have on their horses while engaging several different distractions. Cowboys have always had a more macho depiction, and I thought of using their imagery to create something more refreshing. From there on, Cappiello led to Remington's Cowboys, then to Buonarroti's Temptation, and I started connecting the dots for myself, with thoughts and experiences I've had burning in my head, until I was satisfied with a collage that can present fun action. 
+
+Of course, this *isn't* my first collage, but I hope it helped for you to see me work along with you. However you may feel about your collage, whether it's worse, fine, or better than mine, remember that this is only the beginning, and you can only get better from here.
+
+I remember when I finished my *actual* first collage. Nothing in particular about the collage stuck with me. I greatly enjoyed the process of making it, but afterwards, I felt it was off, janky, and a little too bizarre for my taste. Though I didn’t love it, I remember thoroughly enjoying making it. When I had finished that art class, I didn't make any artworks for myself for a long time afterwards, but I enjoyed that class. I enjoyed the looking, the gathering into The Pile—observational skills which I would keep and train for as I entered into graphic design. It would only be years later, when I would pick up collage on my own terms, teenage and experimenting again, that I started to truly appreciate the form.
 
 ![First Collage](/img/how-collage/first-collage.png)
 
 It's been almost a decade since that first collage. Nowadays, when I look at my first collage—which I thank God I kept—I’ve ended up appreciating it more than I did before. Is it perfect? No. Did I have the right resources? I could have found better. But this was *my first.* My first attempt into a process I fell in love with—unpacking ideas that I have again and again, confronting limits, and giving the vision a concrete image. 
 
-This was my first attempt, and it's important to use that wording because no matter how good your first attempt looks, it's still the first. Can you imagine what your future collages would look, if you let yourself get into the process? If you find yourself falling in love with the exercise? How much better not just your art could be, but yourself? 
+Your first. It's important to use that wording because no matter how good your first attempt looks, it's still the first. Can you imagine what your future collages would look, if you let yourself get into the process? If you find yourself falling in love with the exercise? How much better not just your art could be, but yourself? 
 
 ![My Collage Timeline](/img/how-collage/my-collage-timeline.gif)
 

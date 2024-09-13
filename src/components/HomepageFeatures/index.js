@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Your Guide to Collage',
+    Svg: require('@site/static/img/guide-to-collage.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This is both a starter and companion guide to collage, for beginners and
+        experienced alike, giving you history, sources, tips, and more!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Look, Cut, & Paste',
+    Svg: require('@site/static/img/second.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Simple and easy to follow along, with each page packing all the info
+        you need in order to know what you need to know about collage.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'My Dedication to the Craft',
+    Svg: require('@site/static/img/third.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Designed and written in a way that aims to help you respect and fall
+        in love with the craft of collage and the people who make them, just as I have.
       </>
     ),
   },
