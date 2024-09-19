@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 const config = {
   title: 'cccollage',
-  tagline: 'WELCOME TO',
+  tagline: 'welcome to',
   favicon: 'img/cccollage.ico',
 
   // Set the production url of your site here
@@ -68,7 +68,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/cccollage-social-card.png',
       navbar: {
         title: '',
         logo: {
