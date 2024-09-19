@@ -69,10 +69,11 @@ const config = {
     ({
       // Replace with your project's social card
       metadata: [
-        { property: 'og:image', content: '/img/cccollage-social-card.png' },
-        { property: 'og:type', content: 'website' },
-        { property: 'og:title', content: 'cccollage' }, 
-        { property: 'og:description', content: 'Your source to all things collage!' },
+        { name: 'twitter:card', content: 'summary_large_image' },
+        { name: 'twitter:image', content: 'https://samisnotavailable.github.io/cccollage/img/cccollage-social-card.png' },
+        { property: 'og:image', content: 'https://samisnotavailable.github.io/cccollage/img/cccollage-social-card.png' },
+        { property: 'og:title', content: 'cccollage' },
+        { property: 'og:description', content: 'Your source and directory for all things collage!' },
       ],
       image: '/img/cccollage-social-card.png',
       navbar: {
