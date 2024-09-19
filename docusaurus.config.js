@@ -68,7 +68,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/cccollage-social-card.png',
+      metadata: [
+        { property: 'og:image', content: '/img/cccollage-social-card.png' },
+        { property: 'og:type', content: 'website' },
+        { property: 'og:title', content: 'cccollage' }, 
+        { property: 'og:description', content: 'Your source to all things collage!' },
+      ],
+      image: '/img/cccollage-social-card.png',
       navbar: {
         title: '',
         logo: {

@@ -58,7 +58,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Crash Course Collage—your source and directory for all things collage!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
