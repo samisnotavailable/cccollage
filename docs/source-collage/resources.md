@@ -115,7 +115,7 @@ I have other sources still, but I wanted to limit it to 10 links. However, as a 
 So, let's say you found a cool-looking picture on the internet. Maybe you found it on Twitter. Maybe you found it on Instagram. Quite probably, you found it on Pinterest. Most of the time, these pictures go unlabeled, uncredited, and then no one ends up more informed than they were before they found the picture. And worse, it can gain a lot of likes and clicks even if the poster doesn't own it. How do you trace an image's source to find out where it comes from and if you can use it for your collage? Even if the comments can indicate the source, one way I make sure I find the image's rightful owner is by using Google Images. This isn't always the best method, as so many versions of one image can exist and be more pixelated or filtered than the next, but it's always worth a try.
 
 ![Pipeline](/img/source-collage/pinterest-01.png)
-First, get the image. You can right-click on your laptop to copy the image or copy the direct URL link itself. Afterwards, you'll want to head on over to images.google.com, then click on the camera icon, after which you can paste either the picture or the URL you copied. 
+First, get the image. You can right-click on your laptop to copy the image or copy the direct URL link itself. Afterwards, you'll want to head on over to [images.google.com](images.google.com), then click on the camera icon, after which you can paste either the picture or the URL you copied. 
 
 ![Pipeline](/img/source-collage/pinterest-02.png)
 Afterwards, what Google Images will do is show you the results for where the image might come from. What you'll want to do here is to click **"Find Image Source"** to find exact copies. 
