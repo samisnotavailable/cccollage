@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcccollage=self.webpackChunkcccollage||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"my-life","permalink":"/cccollage/blog/2024/11/18/opinion/my-life","unlisted":false,"date":"2024-11-18T00:00:00.000Z"}]}')}}]);

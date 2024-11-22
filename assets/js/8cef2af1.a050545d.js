@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcccollage=self.webpackChunkcccollage||[]).push([[3421],{2846:c=>{c.exports=JSON.parse('{"tags":[{"label":"Hello","permalink":"/cccollage/blog/tags/hello","description":"Hello tag description","count":3},{"label":"Docusaurus","permalink":"/cccollage/blog/tags/docusaurus","description":"Docusaurus tag description","count":4}]}')}}]);
