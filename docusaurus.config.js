@@ -122,10 +122,6 @@ const config = {
                 label: 'How to Collage',
                 to: '/docs/category/how-to-collage',
               },
-              {
-                label: 'Artists to Follow',
-                to: '/docs/category/artists-to-follow',
-              },
             ],
           },
           {
