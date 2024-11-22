@@ -45,3 +45,29 @@ h1 span {
   --ifm-color-primary-lightest: #E0B700;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.image-gallery {
+  width: 60%;
+  height: 400px;
+  margin-top: 50px;
+  margin: 50px auto 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.slides {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  transition: all 1.9s ease;
+}
+
+.navigation {
+  text-align: center;
+  margin-top: 30px;
+}
+.navigation button {
+  padding: 5px 10px;
+  margin-left: 10px;
+}
+ 

@@ -1,9 +1,3 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
-
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -45,22 +39,31 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
+          /* Please change this to your repo.
+           Remove this to remove the "edit this page" links.
+           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            */
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
+    ],
+  ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'featured-artists', 
+        path: 'featured-artists', 
+        routeBasePath: 'featured-artists', 
+        sidebarPath: require.resolve('./sidebarsArtists.js'), 
+      },
     ],
   ],
 
@@ -89,7 +92,8 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/featured-artists/get-featured', label: 'Featured Artists', position: 'left' },
         ],
       },
       footer: {
@@ -132,6 +136,15 @@ const config = {
                 href: 'https://pbs.twimg.com/media/Fw7q2p-XwAEjq9F.jpg',
               },
             ],
+          },
+          {
+            title: 'Featured Artists',
+            items: [
+              {
+                label: 'Get Featured',
+                href: 'https://www.instagram.com/diendenoel/',
+              },
+            ]
           },
           {
             title: 'About Me',
