@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 const config = {
   title: 'cccollage',
-  tagline: 'welcome to',
+  tagline: '',
   favicon: 'img/cccollage.ico',
 
   // Set the production url of your site here
@@ -156,7 +156,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} cccollage by Diende Noel.`,
+        copyright: `Copyright © ${new Date().getFullYear()} cccollage by Diende.`,
       },
       prism: {
         theme: prismThemes.github,

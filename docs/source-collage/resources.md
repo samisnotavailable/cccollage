@@ -63,9 +63,9 @@ Now it can be confusing to explore the website, as it's written in Japanese. Its
 ![PDQ](/img/source-collage/pdq-03.png)
 
 ## 6. [pulpcovers.com](https://pulpcovers.com/)
-Moving on from official public domain sites, now we enter the realm of dedicated blogs. Blogs like these don't always contain public domain material, but they instead can be used for your collages under Fair Use. As such, Pulp Covers is a long-time running blog, dedicated to the pulp magazine era from the 1930s up to around 1960s(?). Pulp magazines could be considered as the older relative to the comics we know today, considerably cheaper and a lot more unrestricted. With such a low barrier, pulp magazines boomed, and in order to compete became known for their lurid, sensual, and overall controversial content. And in order to get attention, their cover artworks had to *get* attention. Though not all pulp magazine artworks are in the public domain (more on this gray area later), those that do hold copyright can't be tracked down due to no longer being in business. Pulp magazine artworks are a messy place, with there being so much around and yet so little credit to be found for their artists. 
+Moving on from official public domain sites, now we enter the realm of dedicated blogs. Blogs like these don't always contain public domain material, but they instead can be used for your collages under Fair Use. As such, Pulp Covers is a long-time running blog, dedicated to the pulp magazine era from the 1930s up to around 1960s(?). Pulp magazines could be considered as the older relative to the comics we know today, considerably cheaper and a lot more unrestricted. With such a low barrier to accessibility, pulp magazines boomed, and in order to compete with one another and other magazines, became known for their lurid, sensual, and overall controversial content. In order to get attention, their cover artworks had to *get* attention. 
 
-What Pulp Covers tries to do, at the very least, is create an archive of these artworks and keep them alive, as evidences of a bygone era. The scans are high-resolution, and they give credit whenever they can find credit.
+Though not all pulp magazine artworks are in the public domain (more on this gray area later), those that do hold copyright can't be tracked down due to no longer being in business. Pulp magazine artworks are a messy place, with there being so much around and yet so little credit to be found for their artists. What Pulp Covers tries to do, at the very least, is create an archive of these artworks and keep them alive, as evidences of a bygone era. The scans are high-resolution, and they give credit whenever they can find credit.
 
 ![Pulp Covers](/img/source-collage/pulpcovers-01.png)
 
@@ -130,5 +130,5 @@ If it checks 2 out of the 3 guidelines, that's good enough for me. As we can see
 ![Pipeline](/img/source-collage/pinterest-04.png)
 
 
-Now that all of that has been discussed, it's time to get into the nitty-gritty. The fine line. I've shown you links, I've shown you resources, now let's determine how to use them with discretion. Just because you can use anything for collage, it doesn't mean that you should. 
+Now that all of that has been discussed, it's time to get into the nitty-gritty. The fine line. I've shown you links, I've shown you resources, now let's determine how to use them with discretion. Just because you can use anything for collage, it doesn't mean that you *always* should. 
 
