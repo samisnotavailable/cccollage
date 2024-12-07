@@ -146,10 +146,6 @@ const config = {
             title: 'About Me',
             items: [
               {
-                label: 'Diende Noel',
-                to: '/docs/about',
-              },
-              {
                 label: 'Instagram',
                 href: 'https://www.instagram.com/diendenoel/',
               },
