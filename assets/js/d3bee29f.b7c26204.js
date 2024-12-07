@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcccollage=self.webpackChunkcccollage||[]).push([[4239],{3332:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/cccollage/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
