@@ -94,6 +94,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           { to: '/featured-artists/get-featured', label: 'Featured Artists', position: 'left' },
+          { to: '/about-me', label: 'About the Author', position: 'right' },
         ],
       },
       footer: {
@@ -138,13 +139,17 @@ const config = {
             items: [
               {
                 label: 'Get Featured',
-                href: 'https://www.instagram.com/diendenoel/',
+                to: '/featured-artists/get-featured',
               },
             ]
           },
           {
-            title: 'About Me',
+            title: 'Get to Know Me',
             items: [
+              {
+                label: 'About Me',
+                to: '/about-me',
+              },
               {
                 label: 'Instagram',
                 href: 'https://www.instagram.com/diendenoel/',
