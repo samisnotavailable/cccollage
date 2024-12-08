@@ -9,6 +9,6 @@ Woman Create makes a lot of things, but collages are how I came to find her. Her
 >
 > *— Woman Create, detailing why she loves using collage*
 
-<iframe src="https://samisnotavailable.github.io/gallery/artists/woman-create.html" scrolling="no" frameborder="0" allowfullscreen width="700" height="1050"></iframe>
+<iframe src="https://samisnotavailable.github.io/gallery/artists/woman-create.html" scrolling="no" frameborder="0" allowfullscreen width="700" height="1025"></iframe>
 
 *You can follow **Woman Create** on Instagram as [@womancreate](https://www.instagram.com/womancreate/) and see her portfolio on [https://womancreate.myportfolio.com/](https://womancreate.myportfolio.com/).*

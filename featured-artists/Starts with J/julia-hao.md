@@ -10,6 +10,6 @@ Right now, Julia Hao is undertaking her thesis as a creative writer, specializin
 >
 > *— Julia Hao, on what led her to make collages*
 
-<iframe src="https://samisnotavailable.github.io/gallery/artists/julia-hao.html" scrolling="no" frameborder="0" allowfullscreen width="700" height="1100"></iframe>
+<iframe src="https://samisnotavailable.github.io/gallery/artists/julia-hao.html" scrolling="no" frameborder="0" allowfullscreen width="700" height="1000"></iframe>
 
 *While she hasn't made any new artworks, you can find **Julia Hao** and more of her prose and eventual collages on Instagram as [@juliaavhao](https://www.instagram.com/juliaavhao/).*
