@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcccollage=self.webpackChunkcccollage||[]).push([[1137],{7627:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"featured-artists"}')}}]);
