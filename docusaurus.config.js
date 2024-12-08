@@ -8,7 +8,7 @@ const config = {
   favicon: 'img/cccollage.ico',
 
   // Set the production url of your site here
-  url: 'https://samisnotavailable.github.io',
+  url: 'https://cccollage.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
