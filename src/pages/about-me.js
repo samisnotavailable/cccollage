@@ -57,8 +57,8 @@ export default function Home() {
         />
         <h1 className="hero__title">Profile</h1>
         <p>When I'm not making art, I'm probably updating this website. If I'm not updating this website, I'm probably working. If I'm not working, I'm probably resting. If I'm not resting, I'm probably writing.
-          If I'm not writing, I'm probably thinking about it. You can follow me on Instagram as <a href="https://www.instagram.com/diendenoel/">@diendenoel</a> and you may email me at 
-          <a href="mailto:diendeworks@gmail.com">diendeworks@gmail.com</a>. Personal website is currently in development.</p>
+          If I'm not writing, I'm probably thinking about it. You can follow me on Instagram as <a href="https://www.instagram.com/diendenoel/">@diendenoel</a> and you may email me at <a href="mailto:diendeworks@gmail.com">diendeworks@gmail.com</a>. 
+          Personal website is currently in development.</p>
       </div>
       </main>
     </Layout>
