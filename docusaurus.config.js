@@ -51,10 +51,6 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        gtag: {
-          trackingID: 'G-EM88EL8YGP',
-          anonymizeIP: true,
-        },
       }),
     ],
   ],
@@ -67,6 +63,13 @@ const config = {
         path: 'featured-artists', 
         routeBasePath: 'featured-artists', 
         sidebarPath: require.resolve('./sidebarsArtists.js'), 
+      },
+    ],
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-EM88EL8YGP',
+        anonymizeIP: true,
       },
     ],
   ],
