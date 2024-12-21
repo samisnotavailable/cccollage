@@ -64,6 +64,8 @@ const config = {
         routeBasePath: 'featured-artists', 
         sidebarPath: require.resolve('./sidebarsArtists.js'), 
       },
+    ],
+    [
       '@docusaurus/plugin-google-gtag',
       {
         trackingID: 'G-EM88EL8YGP',
