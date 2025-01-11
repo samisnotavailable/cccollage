@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cccollage.com/blog</id>
+    <title>cccollage Blog</title>
+    <updated>2024-11-22T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cccollage.com/blog"/>
+    <subtitle>cccollage Blog</subtitle>
+    <icon>https://cccollage.com/img/cccollage.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Third Blog Post]]></title>
+        <id>https://cccollage.com/blog/third-post</id>
+        <link href="https://cccollage.com/blog/third-post"/>
+        <updated>2024-11-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Coming soon!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome! This post is still underway.</p>]]></content>
+        <author>
+            <name>Diende</name>
+            <uri>https://www.instagram.com/diendenoel/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second Blog Post]]></title>
+        <id>https://cccollage.com/blog/second-post</id>
+        <link href="https://cccollage.com/blog/second-post"/>
+        <updated>2024-11-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Coming soon!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome! This post is still underway.</p>]]></content>
+        <author>
+            <name>Diende</name>
+            <uri>https://www.instagram.com/diendenoel/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://cccollage.com/blog/first-post</id>
+        <link href="https://cccollage.com/blog/first-post"/>
+        <updated>2024-11-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Coming soon!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome! This post is still underway.</p>]]></content>
+        <author>
+            <name>Diende</name>
+            <uri>https://www.instagram.com/diendenoel/</uri>
+        </author>
+    </entry>
+</feed>
